@@ -1,2 +1,2 @@
 # CodeforcesSubmissions
-My accepted submissions for CodeForces
+My submissions for CodeForces
