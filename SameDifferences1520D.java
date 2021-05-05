@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class SameDifferences1520C {
+public class SameDifferences1520D {
  
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
